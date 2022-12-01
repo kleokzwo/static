@@ -82,3 +82,26 @@ height: 100px;
 .btc2_color {
 color: #FF611B;
 }
+
+.display-6 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.display-7 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #dee2e6!important;
+  line-height: 56px;
+}
+.bg-none {
+  background-color: transparent !important;
+}
+.bt-0 {
+  border-top: none;
+}
